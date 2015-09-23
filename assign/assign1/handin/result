@@ -1,0 +1,175 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.LinearRegression -S 0 -R 1.0E-8
+Relation:     healthcare-lang-lc(3)
+Instances:    942
+Attributes:   346
+[list of attributes omitted]
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+Linear Regression Model
+
+CLASS =
+
+     -0.0013 * subj +
+      0.0843 * State=Colorado,Utah,Nevada,Oklahoma,Kentucky,WestVirginia,Texas,Arkansas,Montana,Iowa,NewJersey,Alabama,Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.069  * State=Nevada,Oklahoma,Kentucky,WestVirginia,Texas,Arkansas,Montana,Iowa,NewJersey,Alabama,Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.2045 * State=WestVirginia,Texas,Arkansas,Montana,Iowa,NewJersey,Alabama,Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.2468 * State=Texas,Arkansas,Montana,Iowa,NewJersey,Alabama,Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0478 * State=Arkansas,Montana,Iowa,NewJersey,Alabama,Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.1286 * State=Alabama,Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.1144 * State=Louisiana,Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.0708 * State=Virginia,Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.0669 * State=Mississippi,NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0627 * State=NewHampshire,Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.0583 * State=Maine,NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0858 * State=NewMexico,Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0929 * State=Minnesota,Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.0455 * State=Indiana,Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.1185 * State=Tennessee,Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0961 * State=Nebraska,SouthCarolina,Georgia,Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0763 * State=Missouri,Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.2513 * State=Arizona,Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.1595 * State=Florida,Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.0417 * State=Pennsylvania,Washington,DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.1711 * State=DistrictofColumbia,Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.365  * State=Vermont,Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.1324 * State=Ohio,Illinois,Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.0925 * State=Wisconsin,California,NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0695 * State=NewYork,Kansas,Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+      0.1684 * State=Oregon,NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0611 * State=NorthCarolina,Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0699 * State=Maryland,NorthDakota,Delaware,Michigan,Massachusetts,SouthDakota +
+     -0.0792 * can_t +
+      0.1001 * i_m +
+      0.1031 * got +
+      0.1868 * stop +
+      0.1699 * room +
+      0.1846 * whether +
+     -0.1722 * give +
+      0.1297 * then +
+      0.0552 * that +
+     -0.6239 * security +
+      0.2899 * agree +
+     -0.2762 * through +
+     -0.1664 * i_ve +
+      0.1858 * service +
+      0.1313 * covered +
+      0.2309 * company +
+      0.1063 * afford +
+      0.155  * years +
+      0.0676 * many +
+     -0.1198 * problems +
+      0.24   * problem +
+      0.0731 * need +
+     -0.0935 * can +
+     -0.1724 * bill +
+     -0.0749 * cost +
+     -0.2243 * trying +
+     -0.251  * under +
+      0.0433 * insurance +
+     -0.4175 * states +
+      0.1846 * we_re +
+      0.0801 * healthcare +
+     -0.1879 * emergency +
+     -0.1126 * paying +
+     -0.2947 * free +
+     -0.192  * cannot +
+     -0.0369 * it_s +
+      0.1116 * from +
+     -0.0963 * costs +
+      0.1671 * companies +
+     -0.1647 * socialized +
+     -0.1615 * forced +
+      0.1948 * against +
+     -0.2674 * hands +
+      0.2285 * could +
+     -0.2161 * doctor +
+      0.0635 * system +
+      0.1646 * address +
+      0.1449 * general +
+     -0.2778 * person +
+      0.1957 * lower +
+     -0.3495 * pays +
+      0.2132 * seen +
+      0.1721 * important +
+      0.647  * social +
+      0.2606 * america +
+      0.1549 * americans +
+     -0.1323 * increase +
+      0.0608 * my +
+      0.0849 * way +
+     -0.1192 * business +
+     -0.0329 * in +
+     -0.0254 * it +
+     -0.1233 * by +
+      0.0695 * people +
+     -0.1447 * debt +
+     -0.1075 * taxes +
+      0.0985 * getting +
+      0.1724 * being +
+     -0.2478 * proposed +
+     -0.1505 * hurt +
+     -0.0857 * don_t +
+      0.1727 * families +
+      0.1181 * better +
+      0.118  * everybody +
+      0.3317 * little +
+      0.0603 * we +
+     -0.0965 * doing +
+     -0.4109 * takeover +
+     -0.07   * too +
+     -0.1486 * away +
+     -0.0347 * the +
+      0.144  * uninsured +
+      0.1601 * most +
+     -0.1351 * there_s +
+     -0.1307 * things +
+      0.1043 * lot +
+     -0.2216 * still +
+     -0.2247 * conditions +
+     -0.082  * not +
+      0.0782 * now +
+      0.2755 * he_s +
+      0.1611 * poor +
+     -0.2032 * canada +
+      0.1417 * something +
+     -0.1432 * work +
+      0.1345 * public +
+     -0.1455 * old +
+     -0.3047 * waste +
+      0.1391 * coverage +
+     -0.2398 * less +
+     -0.1166 * our +
+      0.2099 * how +
+     -0.2124 * doesn_t +
+      0.2743 * senior +
+     -0.1458 * abortion +
+     -0.1181 * with +
+      0.2823 * taxpayers +
+     -0.1773 * competition +
+     -0.1291 * prices +
+      0.2335 * existing +
+      0.1355 * world +
+     -0.1539 * catastrophic +
+      0.3946 * united +
+     -0.1828 * worse +
+      0.0797 * country +
+     -0.1663 * socialism +
+      1.0066
+
+Time taken to build model: 10.32 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.8083
+Mean absolute error                      0.2418
+Root mean squared error                  0.305 
+Relative absolute error                 48.6179 %
+Root relative squared error             61.1186 %
+Total Number of Instances              942     
+
