@@ -27,9 +27,16 @@ AndrewId: jingyual\\
 \maketitle
 
 
+
 \section{Question 1}
 The modified code is in the amlnaivebayes.py file, and the modified result
 is in the result.txt file.
+
+From the result.txt file, we can find that, with smoothing, the result is more
+reasonable. After smoothing, we can find some results are more smoothed, and
+bigger than 0. Some label scores are 0 before adding smoothing, which is
+unreasonable because the conditional probabilities should not be 0 for e test
+case.
 
 
 
