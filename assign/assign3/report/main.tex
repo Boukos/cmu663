@@ -1,0 +1,49 @@
+\documentclass{article} % For LaTeX2e
+\usepackage{nips15submit_e,times}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{graphicx}
+%\documentstyle[nips14submit_09,times,art10]{article} % For LaTeX 2.09
+
+
+\title{Assignment 3 for Applied Machine Learning 15 Fall}
+
+
+\author{
+Jingyuan Liu\\
+AndrewId: jingyual\\
+\texttt{jingyual@andrew.cmu.edu} \\
+}
+
+
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+
+
+\nipsfinalcopy % Uncomment for camera-ready version
+
+
+\begin{document}
+\maketitle
+
+
+\section{Question 1}
+The modified code is in the amlnaivebayes.py file, and the modified result
+is in the result.txt file.
+
+
+
+\section{Question 2}
+I used SMO and Naive Bayes in weka to do classifications with the dataset. The
+average precision for SMO is 73.4861\%, while the average precision for Naive
+Bayes is 68.1669\%. We can see that SMO is obviously better than Naive Bayes in
+classification.
+
+I think this is reasonable. Naive Bayes supposes that attributes are
+conditionally independent given observed label. This assumption may be
+unreasonbale considering that the features are words. In a doc, words always
+tend to relate to each other.
+
+
+
+\end{document}

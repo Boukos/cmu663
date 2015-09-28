@@ -1,0 +1,40 @@
+--------------------------
+['overcast', 'hot', 'normal', 'TRUE', '?']
+No Smoothing
+yes 1.0
+no 0.0
+--------------------------
+['rainy', 'hot', 'high', 'FALSE', '?']
+No Smoothing
+yes 0.6
+no 0.4
+--------------------------
+['overcast', 'cool', 'normal', 'TRUE', '?']
+No Smoothing
+yes 1.0
+no 0.0
+--------------------------
+['rainy', 'mild', 'low', 'FALSE', '?']
+No Smoothing
+yes 0.6
+no 0.4
+--------------------------
+['overcast', 'hot', 'normal', 'TRUE', '?']
+Smoothing
+yes 0.857142857143
+no 0.142857142857
+--------------------------
+['rainy', 'hot', 'high', 'FALSE', '?']
+Smoothing
+yes 0.615384615385
+no 0.384615384615
+--------------------------
+['overcast', 'cool', 'normal', 'TRUE', '?']
+Smoothing
+yes 0.857142857143
+no 0.142857142857
+--------------------------
+['rainy', 'mild', 'low', 'FALSE', '?']
+Smoothing
+yes 0.615384615385
+no 0.384615384615
