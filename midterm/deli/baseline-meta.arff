@@ -1,0 +1,1438 @@
+@relation 1grams_nopunct_1
+
+@attribute 0 {false,true}
+@attribute 0.001297859 {false,true}
+@attribute 0.001946788 {false,true}
+@attribute 0.002118644 {false,true}
+@attribute 0.002259887 {false,true}
+@attribute 0.002320186 {false,true}
+@attribute 0.002457002 {false,true}
+@attribute 0.002595717 {false,true}
+@attribute 0.00311042 {false,true}
+@attribute 0.003244646 {false,true}
+@attribute 0.003389831 {false,true}
+@attribute 0.003436426 {false,true}
+@attribute 0.003649635 {false,true}
+@attribute 0.003685504 {false,true}
+@attribute 0.003893576 {false,true}
+@attribute 0.003913894 {false,true}
+@attribute 0.004237288 {false,true}
+@attribute 0.004519774 {false,true}
+@attribute 0.004542505 {false,true}
+@attribute 0.004640371 {false,true}
+@attribute 0.00466563 {false,true}
+@attribute 0.004914005 {false,true}
+@attribute 0.005037783 {false,true}
+@attribute 0.005649718 {false,true}
+@attribute 0.005840363 {false,true}
+@attribute 0.005870841 {false,true}
+@attribute 0.006024096 {false,true}
+@attribute 0.006142506 {false,true}
+@attribute 0.00622084 {false,true}
+@attribute 0.006355932 {false,true}
+@attribute 0.006666667 {false,true}
+@attribute 0.006779661 {false,true}
+@attribute 0.006872852 {false,true}
+@attribute 0.006960557 {false,true}
+@attribute 0.00729927 {false,true}
+@attribute 0.007556675 {false,true}
+@attribute 0.00777605 {false,true}
+@attribute 0.007827789 {false,true}
+@attribute 0.007909604 {false,true}
+@attribute 0.008474576 {false,true}
+@attribute 0.008510638 {false,true}
+@attribute 0.009280742 {false,true}
+@attribute 0.00933126 {false,true}
+@attribute 0.009784736 {false,true}
+@attribute 0.010075566 {false,true}
+@attribute 0.010169491 {false,true}
+@attribute 0.010309278 {false,true}
+@attribute 0.010948905 {false,true}
+@attribute 0.012048192 {false,true}
+@attribute 0.012594459 {false,true}
+@attribute 0.012711864 {false,true}
+@attribute 0.012765957 {false,true}
+@attribute 0.013333334 {false,true}
+@attribute 0.013745705 {false,true}
+@attribute 0.013921114 {false,true}
+@attribute 0.01459854 {false,true}
+@attribute 0.014830508 {false,true}
+@attribute 0.017021276 {false,true}
+@attribute 0.01718213 {false,true}
+@attribute 0.017857144 {false,true}
+@attribute 0.02 {false,true}
+@attribute 0.021276595 {false,true}
+@attribute 1 {false,true}
+@attribute 10 {false,true}
+@attribute 11 {false,true}
+@attribute 12 {false,true}
+@attribute 13 {false,true}
+@attribute 14 {false,true}
+@attribute 15 {false,true}
+@attribute 16 {false,true}
+@attribute 17 {false,true}
+@attribute 18 {false,true}
+@attribute 19 {false,true}
+@attribute 2 {false,true}
+@attribute 20 {false,true}
+@attribute 21 {false,true}
+@attribute 22 {false,true}
+@attribute 23 {false,true}
+@attribute 25 {false,true}
+@attribute 26 {false,true}
+@attribute 29 {false,true}
+@attribute 3 {false,true}
+@attribute 31 {false,true}
+@attribute 4 {false,true}
+@attribute 5 {false,true}
+@attribute 6 {false,true}
+@attribute 7 {false,true}
+@attribute 8 {false,true}
+@attribute 9 {false,true}
+@attribute coh1 {false,true}
+@attribute coh2 {false,true}
+@attribute coh3 {false,true}
+@attribute coh4 {false,true}
+@attribute coh5 {false,true}
+@attribute coh6 {false,true}
+@attribute coh7 {false,true}
+@attribute false {false,true}
+@attribute true {false,true}
+@attribute CLASS {0,1}
+
+@data
+{0 true,27 true,62 true,83 true,87 true,89 true,96 true}
+{0 true,2 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,62 true,76 true,87 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,83 true,89 true,96 true}
+{0 true,62 true,68 true,73 true,89 true,96 true,98 1}
+{0 true,45 true,63 true,71 true,73 true,81 true,87 true,89 true,96 true,98 1}
+{0 true,36 true,62 true,83 true,88 true,89 true,96 true}
+{0 true,37 true,47 true,81 true,84 true,85 true,89 true,96 true,98 1}
+{0 true,65 true,70 true,72 true,85 true,86 true,89 true,96 true,98 1}
+{0 true,61 true,71 true,72 true,76 true,83 true,86 true,89 true,96 true}
+{0 true,13 true,62 true,73 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,89 true,96 true}
+{0 true,7 true,73 true,81 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,22 true,62 true,85 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,83 true,89 true,96 true}
+{0 true,18 true,63 true,73 true,85 true,89 true,96 true}
+{62 true,64 true,66 true,73 true,81 true,89 true,96 true,98 1}
+{0 true,67 true,74 true,83 true,85 true,89 true,96 true,98 1}
+{0 true,63 true,69 true,79 true,84 true,89 true,96 true,98 1}
+{0 true,70 true,85 true,89 true,96 true}
+{62 true,65 true,70 true,84 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,18 true,73 true,85 true,87 true,89 true,96 true}
+{0 true,4 true,62 true,73 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,10 true,73 true,81 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,86 true,89 true,96 true}
+{0 true,9 true,73 true,83 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,22 true,62 true,73 true,85 true,89 true,96 true}
+{0 true,62 true,65 true,84 true,85 true,86 true,89 true,96 true}
+{0 true,13 true,62 true,69 true,71 true,73 true,81 true,89 true,96 true,98 1}
+{0 true,2 true,73 true,89 true,96 true}
+{0 true,38 true,65 true,81 true,85 true,89 true,97 true,98 1}
+{0 true,13 true,62 true,73 true,84 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,86 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,4 true,19 true,62 true,73 true,81 true,89 true,96 true,98 1}
+{0 true,8 true,62 true,81 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,8 true,32 true,62 true,63 true,73 true,83 true,88 true,89 true,97 true,98 1}
+{0 true,6 true,48 true,62 true,73 true,74 true,75 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,73 true,89 true,96 true}
+{0 true,14 true,65 true,73 true,84 true,89 true,96 true}
+{0 true,31 true,81 true,84 true,85 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,96 true}
+{0 true,15 true,62 true,84 true,89 true,96 true}
+{0 true,49 true,62 true,83 true,85 true,86 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,96 true}
+{0 true,1 true,16 true,62 true,73 true,81 true,83 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,48 true,62 true,73 true,89 true,96 true,98 1}
+{0 true,2 true,73 true,81 true,89 true,96 true}
+{0 true,23 true,81 true,83 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,38 true,81 true,85 true,86 true,89 true,97 true}
+{0 true,62 true,84 true,87 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{62 true,65 true,68 true,83 true,87 true,89 true,96 true,98 1}
+{0 true,24 true,73 true,87 true,88 true,89 true,96 true}
+{62 true,71 true,77 true,81 true,89 true,96 true,98 1}
+{0 true,62 true,65 true,82 true,83 true,89 true,96 true}
+{62 true,72 true,78 true,84 true,85 true,89 true,96 true,98 1}
+{0 true,62 true,67 true,85 true,89 true,96 true}
+{0 true,61 true,62 true,69 true,83 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,24 true,56 true,68 true,70 true,73 true,86 true,87 true,89 true,96 true,98 1}
+{0 true,23 true,81 true,83 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,96 true}
+{0 true,15 true,62 true,73 true,84 true,89 true,96 true,98 1}
+{0 true,49 true,62 true,83 true,85 true,86 true,89 true,96 true}
+{0 true,40 true,62 true,73 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,83 true,89 true,96 true}
+{0 true,2 true,73 true,83 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,81 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,13 true,62 true,73 true,81 true,89 true,96 true}
+{0 true,2 true,73 true,85 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,83 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,62 true,91 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,7 true,39 true,69 true,72 true,73 true,81 true,84 true,89 true,96 true,98 1}
+{0 true,4 true,62 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,62 true,66 true,88 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,89 true,96 true}
+{0 true,56 true,66 true,73 true,75 true,83 true,88 true,89 true,96 true}
+{0 true,23 true,62 true,81 true,83 true,84 true,86 true,89 true,96 true}
+{0 true,20 true,32 true,73 true,83 true,84 true,85 true,89 true,96 true}
+{0 true,43 true,83 true,84 true,86 true,89 true,96 true}
+{0 true,35 true,73 true,81 true,85 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,26 true,62 true,73 true,85 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,81 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,2 true,73 true,89 true,96 true}
+{0 true,10 true,73 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,2 true,16 true,73 true,85 true,86 true,87 true,89 true,96 true,98 1}
+{0 true,23 true,33 true,64 true,81 true,83 true,86 true,87 true,89 true,96 true,98 1}
+{0 true,8 true,32 true,62 true,65 true,66 true,83 true,84 true,89 true,96 true,98 1}
+{62 true,69 true,75 true,84 true,87 true,89 true,96 true,98 1}
+{0 true,49 true,67 true,68 true,71 true,83 true,85 true,89 true,96 true,98 1}
+{0 true,57 true,81 true,86 true,89 true,96 true}
+{0 true,3 true,62 true,90 true,97 true}
+{0 true,26 true,62 true,85 true,89 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,62 true,91 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{62 true,69 true,82 true,87 true,90 true,96 true,98 1}
+{0 true,45 true,62 true,66 true,73 true,87 true,90 true,96 true}
+{0 true,28 true,62 true,81 true,86 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,73 true,81 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,84 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,49 true,62 true,83 true,84 true,85 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,89 true,96 true}
+{0 true,9 true,73 true,83 true,89 true,97 true}
+{0 true,3 true,62 true,90 true,97 true}
+{0 true,2 true,16 true,62 true,64 true,66 true,73 true,81 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,85 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,86 true,90 true,97 true}
+{0 true,21 true,48 true,62 true,63 true,68 true,71 true,81 true,89 true,96 true,98 1}
+{0 true,24 true,73 true,74 true,87 true,89 true,96 true,98 1}
+{0 true,10 true,33 true,67 true,73 true,81 true,89 true,96 true,98 1}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,22 true,52 true,62 true,81 true,83 true,85 true,89 true,96 true,98 1}
+{0 true,51 true,73 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,18 true,56 true,62 true,63 true,64 true,83 true,85 true,90 true,97 true}
+{0 true,13 true,62 true,73 true,81 true,83 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,1 true,16 true,62 true,73 true,84 true,85 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,62 true,63 true,70 true,82 true,89 true,96 true,98 1}
+{0 true,9 true,29 true,67 true,71 true,73 true,83 true,87 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,7 true,73 true,81 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,62 true,84 true,89 true,97 true}
+{0 true,26 true,62 true,73 true,89 true,96 true,98 1}
+{14 true,50 true,62 true,64 true,69 true,73 true,84 true,89 true,96 true,98 1}
+{0 true,81 true,89 true,96 true}
+{0 true,20 true,73 true,83 true,89 true,96 true}
+{0 true,25 true,47 true,73 true,81 true,83 true,84 true,85 true,89 true,97 true,98 1}
+{0 true,26 true,62 true,81 true,89 true,97 true,98 1}
+{0 true,62 true,86 true,88 true,90 true,96 true}
+{62 true,64 true,66 true,73 true,78 true,90 true,96 true,98 1}
+{0 true,62 true,67 true,81 true,90 true,96 true}
+{62 true,68 true,74 true,83 true,86 true,87 true,90 true,96 true}
+{0 true,30 true,62 true,84 true,90 true,96 true}
+{0 true,40 true,62 true,85 true,90 true,96 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,32 true,62 true,73 true,81 true,83 true,90 true,96 true,98 1}
+{0 true,15 true,62 true,73 true,83 true,90 true,97 true}
+{0 true,62 true,63 true,66 true,70 true,81 true,90 true,96 true,98 1}
+{0 true,17 true,73 true,81 true,87 true,90 true,96 true}
+{0 true,42 true,81 true,84 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,96 true}
+{0 true,49 true,83 true,84 true,87 true,90 true,96 true,98 1}
+{0 true,51 true,73 true,85 true,90 true,96 true}
+{0 true,9 true,62 true,83 true,86 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,9 true,62 true,83 true,86 true,90 true,96 true}
+{0 true,17 true,41 true,62 true,73 true,81 true,83 true,87 true,90 true,96 true,98 1}
+{0 true,20 true,73 true,81 true,85 true,90 true,96 true}
+{0 true,37 true,55 true,67 true,68 true,70 true,81 true,83 true,90 true,96 true,98 1}
+{62 true,65 true,75 true,84 true,85 true,90 true,96 true,98 1}
+{62 true,64 true,69 true,84 true,85 true,90 true,96 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,10 true,73 true,90 true,96 true}
+{0 true,11 true,62 true,81 true,90 true,96 true}
+{0 true,25 true,73 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,84 true,90 true,96 true}
+{0 true,40 true,62 true,85 true,90 true,96 true}
+{0 true,27 true,62 true,73 true,83 true,84 true,85 true,89 true,96 true,98 1}
+{0 true,7 true,39 true,73 true,81 true,85 true,87 true,89 true,97 true}
+{0 true,6 true,48 true,62 true,73 true,84 true,85 true,89 true,97 true,98 1}
+{0 true,21 true,62 true,81 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,7 true,73 true,81 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,22 true,62 true,85 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,7 true,73 true,81 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,85 true,86 true,88 true,89 true,97 true,98 1}
+{0 true,13 true,62 true,73 true,81 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,1 true,16 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,27 true,62 true,83 true,86 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,96 true}
+{0 true,15 true,62 true,84 true,89 true,96 true}
+{0 true,85 true,89 true,96 true}
+{0 true,51 true,73 true,81 true,84 true,86 true,89 true,96 true,98 1}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,3 true,62 true,73 true,87 true,89 true,97 true}
+{0 true,62 true,64 true,67 true,71 true,86 true,91 true,96 true,98 1}
+{0 true,62 true,64 true,67 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,96 true}
+{0 true,22 true,62 true,83 true,91 true,97 true}
+{62 true,65 true,67 true,72 true,73 true,91 true,96 true,98 1}
+{0 true,73 true,85 true,87 true,91 true,96 true}
+{62 true,63 true,66 true,67 true,81 true,91 true,96 true,98 1}
+{0 true,66 true,68 true,73 true,79 true,83 true,91 true,96 true}
+{0 true,62 true,84 true,85 true,86 true,91 true,96 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,6 true,48 true,62 true,73 true,84 true,85 true,89 true,96 true,98 1}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,2 true,29 true,63 true,65 true,73 true,84 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,9 true,66 true,68 true,72 true,73 true,83 true,89 true,97 true,98 1}
+{0 true,1 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,35 true,60 true,62 true,65 true,73 true,74 true,76 true,94 true,97 true,98 1}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,48 true,62 true,73 true,75 true,76 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,31 true,62 true,81 true,84 true,87 true,89 true,96 true}
+{0 true,28 true,53 true,81 true,83 true,84 true,85 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,85 true,89 true,96 true}
+{0 true,57 true,81 true,85 true,86 true,87 true,88 true,89 true,96 true,98 1}
+{0 true,7 true,62 true,81 true,85 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,64 true,70 true,79 true,81 true,85 true,90 true,96 true}
+{0 true,67 true,71 true,83 true,85 true,87 true,90 true,97 true,98 1}
+{0 true,7 true,62 true,81 true,90 true,97 true}
+{0 true,14 true,50 true,62 true,73 true,84 true,86 true,87 true,90 true,96 true,98 1}
+{0 true,45 true,63 true,73 true,87 true,88 true,90 true,96 true,98 1}
+{0 true,28 true,62 true,81 true,90 true,96 true}
+{0 true,25 true,47 true,73 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,22 true,52 true,62 true,73 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,14 true,62 true,69 true,84 true,90 true,96 true}
+{0 true,10 true,73 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{27 true,62 true,67 true,73 true,83 true,85 true,89 true,96 true,98 1}
+{0 true,62 true,67 true,73 true,77 true,89 true,96 true,98 1}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,70 true,72 true,79 true,83 true,88 true,89 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,62 true,85 true,88 true,89 true,96 true}
+{62 true,63 true,71 true,73 true,87 true,89 true,96 true,98 1}
+{0 true,76 true,80 true,81 true,86 true,89 true,96 true,98 1}
+{28 true,53 true,62 true,73 true,81 true,83 true,84 true,89 true,97 true,98 1}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{17 true,33 true,62 true,81 true,85 true,89 true,96 true,98 1}
+{0 true,83 true,89 true,96 true}
+{0 true,25 true,47 true,73 true,81 true,84 true,86 true,89 true,96 true,98 1}
+{0 true,35 true,73 true,85 true,89 true,96 true}
+{0 true,51 true,73 true,86 true,89 true,96 true}
+{0 true,7 true,62 true,65 true,81 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,2 true,29 true,73 true,81 true,84 true,89 true,96 true,98 1}
+{0 true,10 true,19 true,62 true,73 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,83 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,28 true,81 true,83 true,89 true,96 true}
+{0 true,15 true,62 true,73 true,84 true,89 true,97 true}
+{0 true,3 true,62 true,67 true,90 true,97 true}
+{0 true,62 true,85 true,87 true,89 true,96 true}
+{0 true,24 true,56 true,65 true,67 true,73 true,83 true,87 true,89 true,96 true,98 1}
+{0 true,31 true,81 true,84 true,89 true,96 true}
+{42 true,58 true,62 true,65 true,70 true,83 true,84 true,87 true,89 true,97 true,98 1}
+{0 true,24 true,62 true,69 true,87 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,87 true,90 true,96 true}
+{0 true,4 true,19 true,62 true,73 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,62 true,89 true,97 true,98 1}
+{0 true,6 true,48 true,62 true,73 true,81 true,89 true,97 true,98 1}
+{0 true,1 true,62 true,85 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,5 true,62 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{62 true,73 true,80 true,88 true,89 true,96 true,98 1}
+{0 true,17 true,33 true,73 true,81 true,84 true,88 true,89 true,96 true,98 1}
+{0 true,28 true,53 true,63 true,81 true,83 true,84 true,87 true,89 true,96 true,98 1}
+{0 true,15 true,62 true,73 true,84 true,89 true,96 true}
+{62 true,63 true,70 true,75 true,85 true,86 true,89 true,96 true,98 1}
+{0 true,51 true,62 true,72 true,73 true,86 true,89 true,96 true}
+{0 true,6 true,48 true,62 true,85 true,87 true,88 true,89 true,96 true,98 1}
+{0 true,2 true,29 true,73 true,81 true,85 true,87 true,89 true,96 true,98 1}
+{17 true,41 true,62 true,63 true,66 true,81 true,89 true,96 true}
+{0 true,28 true,53 true,81 true,83 true,86 true,89 true,96 true,98 1}
+{0 true,15 true,62 true,84 true,87 true,89 true,96 true}
+{0 true,44 true,62 true,81 true,84 true,85 true,89 true,96 true}
+{0 true,40 true,62 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,26 true,62 true,83 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,62 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,91 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,7 true,73 true,81 true,86 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,11 true,62 true,83 true,85 true,89 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,2 true,29 true,73 true,81 true,85 true,87 true,89 true,96 true}
+{0 true,5 true,62 true,81 true,89 true,96 true,98 1}
+{0 true,11 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{2 true,29 true,62 true,69 true,71 true,73 true,86 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,81 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,7 true,39 true,62 true,81 true,83 true,85 true,90 true,96 true}
+{0 true,10 true,33 true,67 true,69 true,73 true,85 true,90 true,96 true,98 1}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,84 true,90 true,96 true}
+{0 true,40 true,59 true,62 true,73 true,81 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,62 true,89 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,96 true}
+{0 true,14 true,73 true,84 true,85 true,89 true,97 true}
+{0 true,36 true,62 true,83 true,92 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,73 true,81 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,96 true,98 1}
+{0 true,1 true,16 true,62 true,73 true,89 true,96 true,98 1}
+{0 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,10 true,73 true,81 true,83 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,44 true,81 true,85 true,89 true,97 true}
+{0 true,26 true,62 true,89 true,96 true,98 1}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,5 true,62 true,81 true,89 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,73 true,83 true,84 true,85 true,90 true,97 true,98 1}
+{0 true,62 true,63 true,86 true,89 true,96 true}
+{0 true,64 true,66 true,73 true,89 true,96 true}
+{45 true,62 true,78 true,81 true,87 true,89 true,96 true,98 1}
+{0 true,66 true,75 true,76 true,83 true,87 true,89 true,97 true,98 1}
+{0 true,62 true,64 true,68 true,92 true,96 true,98 1}
+{0 true,37 true,73 true,81 true,92 true,96 true}
+{0 true,22 true,62 true,81 true,92 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,23 true,62 true,81 true,83 true,84 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,30 true,62 true,65 true,85 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,62 true,89 true,96 true}
+{0 true,7 true,62 true,63 true,73 true,81 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,36 true,58 true,63 true,67 true,71 true,83 true,89 true,96 true,98 1}
+{0 true,15 true,62 true,73 true,84 true,89 true,96 true}
+{0 true,35 true,52 true,73 true,81 true,84 true,85 true,89 true,97 true,98 1}
+{0 true,18 true,50 true,62 true,65 true,78 true,82 true,85 true,90 true,97 true,98 1}
+{0 true,62 true,73 true,91 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,96 true}
+{0 true,2 true,73 true,89 true,96 true}
+{0 true,10 true,73 true,81 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,6 true,48 true,62 true,65 true,66 true,86 true,89 true,96 true,98 1}
+{0 true,62 true,65 true,73 true,77 true,89 true,96 true}
+{62 true,63 true,70 true,79 true,81 true,86 true,89 true,96 true,98 1}
+{0 true,36 true,83 true,86 true,89 true,96 true}
+{0 true,43 true,83 true,84 true,87 true,89 true,96 true}
+{0 true,35 true,73 true,85 true,89 true,96 true}
+{0 true,75 true,86 true,89 true,96 true}
+{0 true,21 true,62 true,81 true,83 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,8 true,32 true,62 true,73 true,83 true,89 true,97 true,98 1}
+{0 true,14 true,62 true,64 true,84 true,90 true,96 true}
+{0 true,62 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,14 true,62 true,70 true,73 true,84 true,86 true,90 true,96 true,98 1}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{0 true,8 true,32 true,62 true,81 true,84 true,85 true,90 true,96 true,98 1}
+{0 true,37 true,55 true,81 true,83 true,84 true,86 true,90 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,10 true,73 true,81 true,89 true,97 true}
+{0 true,2 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,5 true,62 true,73 true,90 true,96 true,98 1}
+{0 true,8 true,32 true,62 true,81 true,83 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,73 true,81 true,83 true,90 true,97 true,98 1}
+{0 true,62 true,64 true,73 true,85 true,87 true,89 true,96 true,98 1}
+{14 true,50 true,62 true,64 true,73 true,84 true,86 true,89 true,96 true,98 1}
+{0 true,31 true,54 true,66 true,73 true,81 true,84 true,86 true,89 true,96 true,98 1}
+{20 true,46 true,62 true,73 true,76 true,83 true,86 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,85 true,89 true,96 true}
+{0 true,51 true,73 true,81 true,86 true,89 true,96 true}
+{0 true,3 true,62 true,64 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,90 true,96 true}
+{0 true,5 true,62 true,73 true,90 true,96 true}
+{20 true,46 true,62 true,66 true,68 true,73 true,81 true,83 true,90 true,96 true,98 1}
+{0 true,12 true,15 true,62 true,73 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,62 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,7 true,73 true,81 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,9 true,62 true,83 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,35 true,52 true,73 true,83 true,84 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,90 true,96 true}
+{0 true,31 true,73 true,84 true,85 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,84 true,90 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,96 true}
+{62 true,63 true,66 true,72 true,73 true,81 true,89 true,96 true,98 1}
+{0 true,31 true,81 true,84 true,87 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,81 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,17 true,62 true,81 true,83 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,81 true,91 true,96 true}
+{0 true,22 true,62 true,83 true,91 true,97 true}
+{0 true,2 true,29 true,62 true,63 true,73 true,87 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,29 true,62 true,73 true,81 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,73 true,84 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,85 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,62 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,16 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,7 true,29 true,62 true,66 true,69 true,81 true,85 true,90 true,96 true,98 1}
+{0 true,10 true,73 true,90 true,97 true}
+{0 true,21 true,62 true,81 true,89 true,96 true}
+{0 true,3 true,62 true,64 true,73 true,89 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,81 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{42 true,62 true,81 true,84 true,85 true,90 true,96 true,98 1}
+{0 true,25 true,73 true,83 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,9 true,62 true,83 true,84 true,90 true,97 true}
+{0 true,7 true,39 true,62 true,81 true,83 true,86 true,87 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,18 true,62 true,67 true,85 true,90 true,96 true}
+{0 true,17 true,62 true,73 true,81 true,84 true,90 true,97 true}
+{18 true,56 true,62 true,64 true,85 true,86 true,90 true,97 true,98 1}
+{0 true,3 true,62 true,83 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,7 true,29 true,62 true,73 true,81 true,83 true,84 true,90 true,96 true,98 1}
+{0 true,4 true,19 true,62 true,73 true,81 true,83 true,90 true,96 true,98 1}
+{0 true,20 true,32 true,73 true,81 true,83 true,84 true,86 true,90 true,96 true,98 1}
+{43 true,55 true,62 true,63 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,30 true,73 true,84 true,90 true,96 true,98 1}
+{0 true,40 true,59 true,62 true,73 true,81 true,83 true,85 true,90 true,96 true}
+{0 true,4 true,62 true,86 true,91 true,97 true}
+{0 true,2 true,29 true,62 true,64 true,73 true,84 true,88 true,90 true,96 true,98 1}
+{0 true,5 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,13 true,48 true,62 true,73 true,81 true,83 true,89 true,96 true,98 1}
+{7 true,39 true,62 true,71 true,73 true,75 true,81 true,84 true,89 true,96 true,98 1}
+{38 true,62 true,81 true,85 true,88 true,89 true,96 true,98 1}
+{0 true,42 true,64 true,83 true,84 true,85 true,86 true,89 true,96 true,98 1}
+{0 true,37 true,55 true,81 true,84 true,85 true,89 true,96 true,98 1}
+{62 true,71 true,85 true,88 true,89 true,96 true,98 1}
+{0 true,76 true,77 true,84 true,86 true,89 true,96 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,90 true,97 true,98 1}
+{0 true,18 true,50 true,62 true,64 true,68 true,75 true,85 true,90 true,96 true,98 1}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,81 true,84 true,90 true,96 true,98 1}
+{0 true,51 true,73 true,81 true,85 true,90 true,96 true,98 1}
+{0 true,7 true,62 true,81 true,84 true,90 true,96 true,98 1}
+{0 true,10 true,33 true,73 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,20 true,73 true,81 true,90 true,96 true}
+{0 true,12 true,62 true,73 true,83 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,84 true,90 true,97 true}
+{0 true,4 true,19 true,62 true,73 true,81 true,91 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,45 true,68 true,73 true,87 true,90 true,96 true}
+{62 true,69 true,74 true,77 true,81 true,86 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,81 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,71 true,72 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,90 true,96 true}
+{0 true,10 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,37 true,55 true,62 true,81 true,83 true,85 true,93 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,37 true,55 true,66 true,69 true,81 true,83 true,85 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,19 true,62 true,73 true,90 true,96 true,98 1}
+{0 true,8 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,14 true,62 true,84 true,85 true,90 true,96 true}
+{0 true,31 true,54 true,62 true,73 true,84 true,85 true,86 true,90 true,97 true}
+{0 true,1 true,16 true,62 true,84 true,85 true,86 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,84 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,17 true,73 true,81 true,90 true,96 true}
+{0 true,28 true,81 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,85 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{27 true,62 true,66 true,69 true,74 true,83 true,89 true,96 true,98 1}
+{0 true,62 true,63 true,73 true,80 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,17 true,41 true,62 true,70 true,74 true,81 true,85 true,91 true,97 true,98 1}
+{0 true,4 true,19 true,62 true,73 true,91 true,97 true}
+{0 true,1 true,16 true,62 true,81 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,84 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,11 true,62 true,81 true,90 true,97 true,98 1}
+{0 true,1 true,3 true,62 true,73 true,83 true,84 true,90 true,96 true,98 1}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,96 true}
+{0 true,35 true,73 true,84 true,90 true,96 true}
+{0 true,40 true,62 true,85 true,90 true,96 true}
+{0 true,10 true,33 true,62 true,63 true,65 true,73 true,87 true,91 true,96 true,98 1}
+{0 true,73 true,91 true,96 true}
+{0 true,15 true,34 true,62 true,73 true,81 true,91 true,97 true,98 1}
+{0 true,3 true,62 true,84 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,81 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,81 true,83 true,84 true,90 true,96 true,98 1}
+{0 true,62 true,84 true,90 true,97 true}
+{0 true,62 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,90 true,96 true}
+{0 true,10 true,33 true,73 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,81 true,90 true,96 true}
+{0 true,25 true,73 true,83 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,84 true,90 true,96 true}
+{0 true,23 true,73 true,83 true,85 true,90 true,97 true}
+{0 true,62 true,68 true,86 true,94 true,96 true}
+{0 true,40 true,62 true,73 true,94 true,96 true}
+{0 true,62 true,64 true,86 true,90 true,96 true}
+{62 true,64 true,70 true,73 true,82 true,90 true,96 true,98 1}
+{0 true,28 true,81 true,90 true,96 true}
+{0 true,62 true,63 true,66 true,83 true,90 true,96 true}
+{0 true,35 true,73 true,81 true,84 true,90 true,96 true}
+{0 true,61 true,83 true,84 true,85 true,90 true,96 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,3 true,62 true,85 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,25 true,47 true,66 true,67 true,69 true,73 true,83 true,90 true,96 true,98 1}
+{0 true,22 true,52 true,62 true,73 true,81 true,84 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,9 true,62 true,83 true,90 true,96 true}
+{0 true,10 true,62 true,73 true,83 true,90 true,97 true}
+{0 true,1 true,16 true,62 true,69 true,70 true,73 true,90 true,97 true,98 1}
+{0 true,7 true,39 true,62 true,64 true,81 true,83 true,87 true,90 true,96 true,98 1}
+{0 true,23 true,41 true,73 true,83 true,87 true,88 true,90 true,96 true,98 1}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,7 true,39 true,62 true,73 true,81 true,84 true,90 true,96 true,98 1}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,21 true,62 true,81 true,89 true,96 true}
+{2 true,16 true,62 true,73 true,81 true,84 true,89 true,96 true,98 1}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,8 true,62 true,83 true,89 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,2 true,29 true,62 true,63 true,73 true,83 true,87 true,90 true,97 true,98 1}
+{0 true,4 true,62 true,73 true,91 true,97 true}
+{0 true,62 true,63 true,67 true,80 true,83 true,93 true,96 true,98 1}
+{62 true,66 true,73 true,77 true,85 true,86 true,93 true,96 true,98 1}
+{0 true,61 true,81 true,83 true,85 true,93 true,96 true}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,1 true,16 true,62 true,73 true,74 true,75 true,90 true,97 true,98 1}
+{0 true,2 true,29 true,62 true,65 true,67 true,73 true,88 true,90 true,96 true,98 1}
+{0 true,4 true,19 true,62 true,73 true,81 true,83 true,90 true,96 true,98 1}
+{0 true,28 true,81 true,90 true,96 true}
+{0 true,25 true,73 true,81 true,83 true,90 true,96 true}
+{0 true,22 true,62 true,84 true,90 true,96 true}
+{0 true,51 true,62 true,73 true,84 true,85 true,90 true,96 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,7 true,39 true,62 true,65 true,81 true,85 true,88 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,73 true,81 true,90 true,96 true}
+{0 true,43 true,83 true,87 true,88 true,90 true,96 true,98 1}
+{0 true,35 true,60 true,73 true,84 true,85 true,86 true,90 true,96 true,98 1}
+{0 true,64 true,65 true,84 true,85 true,86 true,90 true,96 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,96 true}
+{0 true,35 true,60 true,65 true,67 true,73 true,84 true,86 true,90 true,96 true,98 1}
+{0 true,40 true,62 true,73 true,85 true,90 true,96 true}
+{0 true,2 true,62 true,73 true,83 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,29 true,62 true,63 true,73 true,81 true,87 true,90 true,96 true,98 1}
+{0 true,10 true,73 true,90 true,96 true}
+{0 true,36 true,58 true,81 true,83 true,84 true,87 true,90 true,97 true,98 1}
+{0 true,62 true,63 true,85 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,37 true,81 true,83 true,84 true,89 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,17 true,73 true,81 true,90 true,96 true}
+{0 true,42 true,63 true,64 true,68 true,81 true,84 true,90 true,96 true}
+{62 true,64 true,66 true,69 true,73 true,83 true,90 true,96 true,98 1}
+{0 true,49 true,83 true,84 true,85 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,18 true,56 true,62 true,63 true,83 true,85 true,88 true,90 true,96 true,98 1}
+{0 true,31 true,54 true,63 true,73 true,84 true,86 true,90 true,96 true,98 1}
+{62 true,66 true,81 true,85 true,86 true,90 true,96 true,98 1}
+{0 true,62 true,63 true,66 true,83 true,88 true,90 true,96 true,98 1}
+{0 true,44 true,62 true,81 true,84 true,90 true,96 true}
+{0 true,61 true,63 true,67 true,83 true,85 true,87 true,90 true,96 true,98 1}
+{0 true,62 true,91 true,97 true}
+{0 true,37 true,62 true,81 true,83 true,93 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,2 true,29 true,62 true,73 true,81 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,5 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,86 true,90 true,97 true}
+{0 true,4 true,19 true,62 true,73 true,81 true,83 true,91 true,97 true}
+{0 true,1 true,16 true,62 true,70 true,71 true,81 true,90 true,96 true,98 1}
+{0 true,10 true,33 true,62 true,73 true,81 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,81 true,90 true,97 true,98 1}
+{0 true,7 true,62 true,81 true,84 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,20 true,73 true,81 true,90 true,96 true}
+{0 true,25 true,47 true,73 true,83 true,86 true,88 true,90 true,96 true,98 1}
+{0 true,30 true,62 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,9 true,62 true,83 true,85 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,23 true,64 true,81 true,83 true,85 true,86 true,89 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,4 true,62 true,73 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,25 true,73 true,81 true,91 true,96 true}
+{0 true,35 true,73 true,81 true,83 true,91 true,96 true}
+{0 true,57 true,81 true,84 true,91 true,96 true}
+{0 true,2 true,29 true,62 true,73 true,81 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,62 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,17 true,41 true,62 true,81 true,83 true,84 true,87 true,91 true,96 true}
+{0 true,20 true,46 true,69 true,71 true,73 true,81 true,91 true,97 true}
+{0 true,13 true,62 true,73 true,84 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,17 true,41 true,73 true,81 true,83 true,84 true,89 true,97 true,98 1}
+{0 true,36 true,58 true,62 true,69 true,74 true,83 true,85 true,92 true,96 true}
+{0 true,37 true,62 true,73 true,81 true,92 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,29 true,62 true,73 true,81 true,90 true,97 true,98 1}
+{0 true,7 true,62 true,81 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,9 true,62 true,64 true,83 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,81 true,90 true,96 true}
+{0 true,5 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,81 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,30 true,62 true,73 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,19 true,62 true,73 true,81 true,83 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,73 true,83 true,90 true,97 true,98 1}
+{0 true,3 true,62 true,79 true,90 true,97 true}
+{0 true,9 true,62 true,83 true,90 true,97 true}
+{0 true,2 true,29 true,62 true,63 true,65 true,73 true,85 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,83 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,90 true,97 true,98 1}
+{0 true,1 true,16 true,62 true,67 true,68 true,81 true,90 true,96 true,98 1}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,86 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,83 true,90 true,96 true}
+{0 true,31 true,54 true,65 true,66 true,73 true,84 true,87 true,90 true,96 true,98 1}
+{0 true,20 true,46 true,73 true,81 true,83 true,90 true,96 true,98 1}
+{0 true,25 true,47 true,73 true,83 true,86 true,88 true,90 true,96 true}
+{0 true,22 true,62 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,19 true,62 true,73 true,81 true,90 true,97 true,98 1}
+{0 true,9 true,39 true,62 true,68 true,72 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,73 true,90 true,96 true}
+{0 true,17 true,41 true,71 true,73 true,75 true,81 true,88 true,90 true,96 true,98 1}
+{0 true,28 true,53 true,81 true,83 true,84 true,86 true,90 true,96 true,98 1}
+{0 true,25 true,47 true,73 true,81 true,83 true,90 true,96 true,98 1}
+{0 true,30 true,62 true,73 true,84 true,90 true,96 true}
+{0 true,51 true,62 true,73 true,81 true,85 true,90 true,96 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,85 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,10 true,33 true,62 true,73 true,81 true,85 true,87 true,91 true,96 true,98 1}
+{0 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,96 true}
+{0 true,83 true,91 true,96 true}
+{0 true,40 true,62 true,84 true,91 true,96 true}
+{0 true,10 true,33 true,62 true,73 true,81 true,91 true,97 true,98 1}
+{0 true,23 true,62 true,83 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,91 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,31 true,73 true,84 true,86 true,90 true,96 true}
+{0 true,8 true,62 true,81 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,81 true,90 true,96 true}
+{0 true,5 true,62 true,73 true,81 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,16 true,62 true,66 true,67 true,83 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,10 true,73 true,90 true,96 true}
+{0 true,20 true,73 true,81 true,85 true,90 true,97 true}
+{0 true,8 true,32 true,62 true,83 true,84 true,85 true,92 true,97 true,98 1}
+{0 true,62 true,65 true,67 true,75 true,86 true,91 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{23 true,62 true,63 true,83 true,85 true,88 true,91 true,96 true,98 1}
+{0 true,36 true,73 true,83 true,84 true,91 true,97 true}
+{18 true,62 true,69 true,81 true,85 true,88 true,90 true,96 true}
+{0 true,38 true,54 true,65 true,68 true,73 true,75 true,85 true,90 true,96 true,98 1}
+{0 true,42 true,66 true,81 true,84 true,86 true,87 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,96 true}
+{0 true,22 true,52 true,62 true,73 true,84 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,10 true,73 true,90 true,96 true}
+{0 true,28 true,62 true,81 true,83 true,90 true,96 true}
+{0 true,15 true,62 true,73 true,83 true,90 true,96 true}
+{0 true,84 true,90 true,96 true}
+{0 true,62 true,67 true,85 true,90 true,96 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,7 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,1 true,3 true,62 true,73 true,81 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,9 true,62 true,83 true,87 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,81 true,90 true,97 true}
+{0 true,4 true,19 true,62 true,73 true,81 true,91 true,97 true,98 1}
+{0 true,10 true,62 true,73 true,81 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,97 true}
+{0 true,3 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,3 true,62 true,85 true,90 true,97 true,98 1}
+{0 true,3 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,2 true,62 true,73 true,86 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,73 true,83 true,90 true,96 true}
+{0 true,49 true,62 true,83 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,5 true,62 true,73 true,84 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,81 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,25 true,47 true,73 true,83 true,85 true,87 true,90 true,96 true,98 1}
+{0 true,22 true,52 true,62 true,81 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,4 true,19 true,62 true,81 true,83 true,84 true,91 true,96 true}
+{0 true,11 true,62 true,73 true,91 true,97 true}
+{0 true,2 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,4 true,19 true,62 true,84 true,85 true,91 true,97 true,98 1}
+{0 true,1 true,62 true,73 true,90 true,96 true,98 1}
+{0 true,10 true,73 true,84 true,90 true,96 true}
+{0 true,20 true,73 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,96 true}
+{0 true,30 true,73 true,84 true,90 true,96 true}
+{40 true,59 true,62 true,81 true,83 true,85 true,90 true,96 true}
+{0 true,3 true,62 true,83 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,34 true,62 true,68 true,69 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,3 true,62 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,1 true,16 true,62 true,73 true,81 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,25 true,73 true,81 true,83 true,90 true,97 true}
+{0 true,62 true,90 true,96 true,98 1}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,84 true,90 true,96 true}
+{0 true,40 true,62 true,81 true,85 true,90 true,96 true}
+{0 true,1 true,16 true,62 true,73 true,84 true,85 true,90 true,96 true,98 1}
+{0 true,4 true,62 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,25 true,47 true,73 true,83 true,84 true,86 true,90 true,96 true,98 1}
+{0 true,84 true,90 true,96 true}
+{0 true,62 true,85 true,90 true,96 true}
+{0 true,1 true,62 true,73 true,90 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,3 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,1 true,16 true,62 true,73 true,81 true,90 true,96 true,98 1}
+{0 true,5 true,62 true,73 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,38 true,62 true,85 true,86 true,91 true,96 true}
+{0 true,42 true,62 true,65 true,73 true,84 true,91 true,96 true}
+{0 true,15 true,34 true,62 true,69 true,70 true,81 true,84 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,6 true,62 true,83 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,97 true}
+{0 true,4 true,62 true,73 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,97 true}
+{0 true,5 true,62 true,91 true,97 true,98 1}
+{0 true,5 true,62 true,91 true,96 true,98 1}
+{0 true,8 true,32 true,62 true,73 true,91 true,97 true,98 1}
+{0 true,62 true,91 true,97 true,98 1}
+{0 true,20 true,62 true,73 true,92 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,10 true,62 true,73 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,6 true,62 true,85 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,8 true,32 true,62 true,73 true,81 true,83 true,89 true,97 true,98 1}
+{0 true,4 true,62 true,84 true,91 true,96 true}
+{0 true,20 true,46 true,73 true,84 true,85 true,87 true,91 true,96 true,98 1}
+{0 true,81 true,91 true,96 true}
+{0 true,30 true,62 true,83 true,91 true,97 true}
+{0 true,4 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,20 true,62 true,73 true,81 true,92 true,96 true}
+{0 true,25 true,73 true,86 true,92 true,96 true}
+{0 true,81 true,92 true,96 true}
+{0 true,62 true,83 true,92 true,96 true,98 1}
+{0 true,15 true,62 true,83 true,93 true,96 true,98 1}
+{0 true,22 true,52 true,62 true,73 true,83 true,84 true,93 true,96 true,98 1}
+{0 true,40 true,62 true,81 true,93 true,96 true}
+{0 true,4 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,5 true,62 true,87 true,91 true,97 true,98 1}
+{0 true,15 true,62 true,93 true,97 true}
+{17 true,33 true,62 true,64 true,81 true,85 true,87 true,91 true,96 true,98 1}
+{0 true,8 true,62 true,73 true,91 true,96 true}
+{0 true,25 true,62 true,73 true,81 true,86 true,91 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,14 true,73 true,84 true,87 true,89 true,96 true}
+{0 true,10 true,33 true,65 true,70 true,72 true,73 true,81 true,89 true,96 true,98 1}
+{0 true,83 true,89 true,96 true}
+{0 true,15 true,62 true,84 true,89 true,96 true}
+{0 true,49 true,83 true,85 true,88 true,89 true,96 true}
+{40 true,59 true,62 true,66 true,73 true,81 true,86 true,89 true,96 true}
+{0 true,4 true,62 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,25 true,73 true,81 true,91 true,97 true}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,22 true,62 true,86 true,94 true,97 true}
+{0 true,10 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,19 true,62 true,73 true,86 true,87 true,91 true,96 true,98 1}
+{0 true,73 true,91 true,96 true}
+{0 true,15 true,34 true,62 true,73 true,81 true,85 true,86 true,91 true,96 true,98 1}
+{0 true,22 true,52 true,62 true,73 true,83 true,84 true,91 true,97 true,98 1}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,19 true,62 true,73 true,83 true,84 true,91 true,96 true,98 1}
+{0 true,73 true,91 true,96 true}
+{0 true,37 true,55 true,73 true,81 true,84 true,88 true,91 true,97 true,98 1}
+{0 true,4 true,62 true,91 true,96 true}
+{0 true,20 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,83 true,91 true,96 true}
+{0 true,81 true,91 true,96 true}
+{0 true,22 true,62 true,83 true,91 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,10 true,33 true,62 true,73 true,81 true,83 true,91 true,97 true,98 1}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,10 true,62 true,73 true,81 true,91 true,97 true,98 1}
+{0 true,8 true,62 true,92 true,97 true}
+{36 true,58 true,62 true,63 true,67 true,83 true,85 true,92 true,97 true,98 1}
+{0 true,4 true,19 true,62 true,63 true,64 true,81 true,91 true,96 true,98 1}
+{0 true,20 true,73 true,81 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,62 true,81 true,91 true,97 true}
+{0 true,6 true,62 true,73 true,89 true,96 true,98 1}
+{0 true,56 true,66 true,73 true,78 true,86 true,89 true,96 true,98 1}
+{0 true,4 true,62 true,81 true,89 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,10 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,19 true,62 true,64 true,65 true,73 true,91 true,97 true,98 1}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,10 true,33 true,62 true,73 true,81 true,83 true,91 true,97 true,98 1}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,28 true,62 true,81 true,92 true,97 true}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{62 true,63 true,71 true,74 true,89 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,83 true,89 true,96 true}
+{0 true,84 true,89 true,96 true}
+{0 true,22 true,62 true,85 true,89 true,97 true}
+{0 true,5 true,62 true,73 true,91 true,97 true,98 1}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,5 true,62 true,83 true,91 true,97 true,98 1}
+{0 true,62 true,91 true,96 true,98 1}
+{0 true,8 true,62 true,73 true,91 true,97 true}
+{0 true,10 true,62 true,73 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,12 true,62 true,81 true,91 true,96 true,98 1}
+{0 true,22 true,62 true,83 true,91 true,97 true}
+{0 true,5 true,62 true,91 true,96 true,98 1}
+{0 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,97 true}
+{0 true,13 true,62 true,73 true,74 true,76 true,85 true,89 true,96 true,98 1}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,4 true,62 true,91 true,97 true}
+{0 true,4 true,19 true,62 true,81 true,86 true,87 true,91 true,96 true,98 1}
+{0 true,8 true,62 true,73 true,91 true,97 true}
+{0 true,4 true,62 true,73 true,91 true,96 true}
+{0 true,8 true,62 true,73 true,91 true,97 true}
+{0 true,28 true,62 true,81 true,92 true,96 true}
+{0 true,37 true,73 true,81 true,92 true,96 true}
+{0 true,44 true,62 true,81 true,92 true,96 true}
+{0 true,40 true,62 true,83 true,92 true,96 true}
+{0 true,5 true,62 true,81 true,91 true,96 true,98 1}
+{0 true,8 true,62 true,73 true,91 true,96 true}
+{0 true,12 true,62 true,63 true,81 true,91 true,97 true,98 1}
+{0 true,8 true,32 true,62 true,73 true,74 true,75 true,92 true,97 true,98 1}
+{0 true,8 true,62 true,92 true,96 true}
+{0 true,73 true,92 true,96 true}
+{0 true,22 true,52 true,62 true,73 true,81 true,83 true,84 true,92 true,97 true,98 1}
+{0 true,62 true,92 true,97 true,98 1}
+{0 true,62 true,93 true,97 true}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,36 true,83 true,89 true,96 true}
+{0 true,43 true,62 true,63 true,83 true,84 true,89 true,97 true}
+{0 true,37 true,62 true,81 true,86 true,93 true,96 true}
+{0 true,22 true,62 true,73 true,93 true,96 true}
+{0 true,40 true,62 true,81 true,93 true,96 true}
+{0 true,30 true,62 true,87 true,94 true,97 true}
+{0 true,8 true,32 true,62 true,63 true,64 true,81 true,92 true,96 true,98 1}
+{0 true,37 true,55 true,64 true,73 true,81 true,85 true,87 true,92 true,96 true,98 1}
+{0 true,35 true,73 true,81 true,83 true,92 true,96 true}
+{0 true,40 true,62 true,83 true,92 true,96 true}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,8 true,62 true,92 true,97 true}
+{0 true,36 true,58 true,62 true,83 true,84 true,85 true,92 true,97 true,98 1}
+{0 true,11 true,62 true,92 true,96 true,98 1}
+{0 true,73 true,92 true,96 true}
+{0 true,62 true,81 true,92 true,97 true,98 1}
+{0 true,8 true,32 true,62 true,83 true,85 true,86 true,92 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,11 true,62 true,68 true,92 true,97 true,98 1}
+{0 true,20 true,62 true,73 true,92 true,97 true}
+{0 true,8 true,62 true,92 true,96 true}
+{0 true,25 true,73 true,92 true,96 true}
+{0 true,22 true,62 true,81 true,92 true,97 true}
+{0 true,62 true,95 true,96 true}
+{43 true,62 true,65 true,66 true,69 true,83 true,93 true,97 true,98 1}
+{0 true,15 true,62 true,93 true,97 true}
+{0 true,15 true,62 true,93 true,97 true}
+{0 true,25 true,62 true,73 true,93 true,97 true}
+{0 true,11 true,62 true,81 true,92 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,15 true,62 true,93 true,97 true}
+{0 true,15 true,62 true,84 true,93 true,96 true,98 1}
+{0 true,22 true,62 true,73 true,86 true,93 true,96 true,98 1}
+{0 true,40 true,59 true,62 true,73 true,81 true,85 true,86 true,93 true,96 true,98 1}
+{0 true,12 true,15 true,62 true,73 true,81 true,83 true,93 true,97 true,98 1}
+{0 true,62 true,63 true,66 true,74 true,86 true,93 true,96 true,98 1}
+{0 true,22 true,52 true,62 true,73 true,81 true,93 true,96 true}
+{0 true,15 true,62 true,73 true,93 true,97 true}
+{0 true,15 true,62 true,93 true,96 true}
+{0 true,44 true,62 true,73 true,81 true,84 true,93 true,96 true}
+{0 true,62 true,93 true,97 true,98 1}
+{0 true,15 true,62 true,93 true,97 true}
+{0 true,12 true,62 true,93 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,15 true,62 true,93 true,96 true}
+{0 true,35 true,60 true,64 true,73 true,84 true,88 true,93 true,96 true,98 1}
+{0 true,62 true,93 true,97 true,98 1}
+{0 true,15 true,62 true,93 true,97 true}
+{0 true,12 true,62 true,83 true,93 true,97 true,98 1}
+{0 true,25 true,62 true,73 true,85 true,93 true,97 true}
+{0 true,62 true,91 true,96 true}
+{0 true,73 true,91 true,96 true}
+{0 true,15 true,62 true,81 true,91 true,96 true}
+{0 true,83 true,91 true,96 true}
+{0 true,57 true,81 true,84 true,85 true,88 true,91 true,96 true,98 1}
+{0 true,62 true,93 true,97 true,98 1}
+{0 true,12 true,62 true,93 true,97 true,98 1}
+{0 true,22 true,62 true,94 true,97 true}
+{0 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,22 true,52 true,62 true,84 true,85 true,90 true,97 true,98 1}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,22 true,62 true,94 true,97 true}
+{0 true,22 true,62 true,73 true,94 true,96 true,98 1}
+{0 true,57 true,73 true,81 true,85 true,87 true,94 true,96 true,98 1}
+{0 true,22 true,62 true,94 true,97 true}
+{0 true,22 true,62 true,94 true,97 true}
+{0 true,22 true,62 true,94 true,97 true}
+{0 true,22 true,52 true,62 true,81 true,84 true,85 true,94 true,97 true,98 1}
+{0 true,51 true,62 true,73 true,81 true,95 true,96 true}
+{0 true,62 true,95 true,96 true}
+{0 true,30 true,62 true,73 true,94 true,97 true,98 1}
+{0 true,62 true,95 true,96 true,98 1}
+{0 true,2 true,62 true,73 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,83 true,90 true,96 true}
+{0 true,35 true,60 true,73 true,81 true,83 true,84 true,90 true,97 true,98 1}
+{0 true,40 true,62 true,73 true,95 true,96 true}
+{0 true,40 true,62 true,95 true,96 true}
+{0 true,1 true,62 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,21 true,62 true,81 true,85 true,89 true,96 true}
+{0 true,18 true,73 true,85 true,86 true,89 true,96 true}
+{0 true,81 true,89 true,96 true}
+{0 true,20 true,73 true,83 true,89 true,97 true}
+{0 true,1 true,62 true,81 true,90 true,97 true,98 1}
+{0 true,1 true,62 true,90 true,96 true}
+{0 true,73 true,90 true,96 true}
+{0 true,81 true,90 true,96 true}
+{0 true,15 true,62 true,83 true,90 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,84 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,83 true,89 true,96 true}
+{0 true,2 true,62 true,73 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
+{62 true,68 true,88 true,89 true,96 true,98 1}
+{62 true,67 true,69 true,73 true,86 true,88 true,89 true,96 true,98 1}
+{0 true,62 true,67 true,80 true,81 true,89 true,96 true}
+{62 true,63 true,74 true,75 true,83 true,89 true,96 true,98 1}
+{0 true,66 true,70 true,83 true,84 true,88 true,89 true,96 true,98 1}
+{62 true,66 true,69 true,75 true,85 true,87 true,89 true,96 true,98 1}
+{0 true,57 true,81 true,84 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,18 true,73 true,85 true,89 true,96 true}
+{0 true,17 true,62 true,81 true,83 true,89 true,96 true}
+{0 true,20 true,73 true,83 true,89 true,96 true}
+{0 true,25 true,34 true,73 true,81 true,83 true,84 true,85 true,89 true,97 true}
+{0 true,26 true,62 true,87 true,89 true,96 true,98 1}
+{56 true,62 true,63 true,73 true,81 true,86 true,87 true,89 true,96 true}
+{0 true,23 true,65 true,81 true,83 true,89 true,96 true}
+{0 true,62 true,83 true,89 true,96 true}
+{0 true,62 true,84 true,88 true,89 true,96 true}
+{0 true,64 true,85 true,89 true,96 true}
+{40 true,59 true,62 true,81 true,83 true,86 true,89 true,96 true,98 1}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,7 true,62 true,81 true,90 true,97 true}
+{0 true,1 true,3 true,62 true,73 true,84 true,85 true,90 true,96 true}
+{0 true,4 true,62 true,73 true,90 true,97 true}
+{0 true,9 true,62 true,83 true,85 true,90 true,97 true}
+{0 true,18 true,50 true,62 true,66 true,81 true,85 true,88 true,90 true,96 true,98 1}
+{0 true,23 true,63 true,73 true,83 true,85 true,90 true,96 true,98 1}
+{0 true,64 true,66 true,81 true,84 true,85 true,90 true,96 true}
+{0 true,37 true,81 true,83 true,85 true,90 true,96 true}
+{62 true,65 true,70 true,72 true,84 true,86 true,90 true,96 true,98 1}
+{0 true,51 true,73 true,81 true,85 true,90 true,96 true}
+{0 true,6 true,62 true,89 true,97 true}
+{0 true,6 true,62 true,89 true,96 true}
+{0 true,2 true,73 true,84 true,89 true,96 true}
+{0 true,23 true,81 true,83 true,85 true,89 true,96 true}
+{0 true,28 true,53 true,63 true,81 true,83 true,85 true,86 true,89 true,96 true,98 1}
+{0 true,15 true,62 true,73 true,84 true,89 true,96 true}
+{0 true,22 true,62 true,85 true,89 true,96 true}
+{0 true,51 true,73 true,85 true,86 true,89 true,96 true}
+{0 true,6 true,62 true,73 true,89 true,96 true}
+{0 true,1 true,62 true,73 true,89 true,96 true}
+{0 true,4 true,62 true,81 true,89 true,96 true}
+{0 true,20 true,62 true,73 true,81 true,83 true,89 true,97 true}
+{0 true,13 true,62 true,73 true,89 true,97 true}
