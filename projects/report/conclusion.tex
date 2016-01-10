@@ -1,0 +1,19 @@
+\section{Conclusion and Future Work}
+In this paper, I formulated the supervised learning framework for predicting
+the publication conference. I explored several ways of encoding the publication
+information as features. I also discussed about several common and powerful
+classifiers for classification. After a series of experiments and
+parameter tuning. I found that the Neural Networks would achieve best
+performances. The best feature should be the Deep Learning Word Features
+combining with Neural Networks Upstream Conditioning LDA topic distributions.
+The best parameters for the model should be 200 hidden nodes for the first
+layer.
+
+The future work mainly falls into two parts, the first is to extract features in
+a more elgant way. From current result, I could see that the topic distributions
+and word features are two different aspects of view on representing dataset and
+could help each other. However, I just arbitraryly combine these two features.
+Another point is how to overcome overfitting. We could see the results are
+sensitive to the number of hidden nodes. And after combining two features, the
+input feature size could be very big, thus might lead to overfitting for some
+sensitive classifiers like Decision Trees.

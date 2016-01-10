@@ -1,0 +1,80 @@
+\documentclass{article} % For LaTeX2e
+\usepackage{nips15submit_e,times}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage[]{algorithm2e}
+%\documentstyle[nips14submit_09,times,art10]{article} % For LaTeX 2.09
+
+\usepackage[utf8]{inputenc}
+\usepackage{enumerate}
+
+\newcommand{\D}{\mathcal{D}}
+\newcommand{\U}{\mathcal{U}}
+\newcommand{\M}{\mathcal{M}}
+
+\title{Predicting Publication Conference with Neural Networks}
+
+
+\author{
+Jingyuan Liu\\
+AndrewId: jingyual\\
+\texttt{jingyual@andrew.cmu.edu} \\
+}
+
+
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+\newcommand{\argmin}{\arg\!\min}
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\inner}[1]{\left\langle #1 \right\rangle}
+
+\nipsfinalcopy % Uncomment for camera-ready version
+
+
+\begin{document}
+\maketitle
+
+
+
+\begin{abstract}
+In this paper, I formulated the supervised learning framework to predict
+publication conference. For this task, I explored several ways of encoding
+features and introduced different classifiers. For features, I explored
+meta-data feature, topic distributions, and word feature. For classifiers,
+I introduced how to use Naive Bayes, Decision Tree, SVM, and Neural Networks
+for this task. I evaluated different combinations of models and features with
+empirical experiments. The results showed that meta-data would help improve
+topic modeling features, and the best classifier is Neural Networks with
+deep learning word features combined with upstream LDA topic distributions.
+\end{abstract}
+
+
+\input{intro}
+
+
+\input{feature}
+
+
+\input{method}
+
+
+\input{result}
+
+
+\input{conclusion}
+
+
+
+\bibliography{mybib}{}
+\bibliographystyle{plain}
+
+
+\end{document}

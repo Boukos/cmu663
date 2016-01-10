@@ -1,0 +1,93 @@
+\section{Introduction}
+% The meaning, what is the advantage of solving this problem
+When researchers are composing a publication, they will decide which conference it
+should be submitted to. Submitting a paper to a proper conference is of great
+importance to researchers. An academic conference with related research topics
+and good reputation would be likely to make the publication more influential.
+Besides, conference would gather noted researchers in the filed and bring a
+great opportunity to discuss about the work. Therefore, in general, submitting
+publications to proper conferences would make the work more influential and
+bring researchers opportunites to imporve their work.
+
+% The motivation, how this problem came up
+However, sometime it could be challenging to decide which conference should a
+publication be submitted to. First of all, there are too many conferences. For
+example, there are more than 120 confernces held by ACM every year. For specific filed,
+like Machine Learning, besides noted ACM conferences like KDD, CIKM, WSDM, there
+are many influential conferences held by other organizations like IJCAI,
+ICML, and NIPS. Some regional held conferences also enjoy good reputation like
+ECML and ICMLDA. Besides the scale of conference, another challenge is that some
+coferences would have different subtle preferences. For example, compared with
+ICML, NIPS would prefer neural and kernal related algorithms, while KDD would
+prefer applications of machine learning methods on data mining. If these
+challenges are well solved, we could extend the predication model to a conference
+recommender system, which could be very useful, especially for those new
+researchers who might get confused when deciding conference choice.
+
+% The challenge of solving the problem
+Solving this prediction problem could be challenging. At first, we would need to
+encode the representative features for the whole text corpus. Good featuress are
+the fundamentals for machine learning. For publication corpus, not only the words
+are useful, but also the meta-data like publication authors, organizations, and
+time contain very important latent information. Another challenge could be how
+to choose appropriate classifiers for this task. Different classifiers are
+suitable for different goals with different types of features. Most current
+related works try to integrate conference information into a general topic
+model. While this kind of work \cite{tang2008arnetminer} \cite{rosen2004author}
+could be used to model conferences, they do not directly fall into supervised
+learning framework and hardly be used for predication goal.
+
+% The contribution of this paper
+In this paper, I tried to solve these challenges and purposed a general
+supervised learning framework including encoding features and building
+classifiers. The main contributions are:
+
+\begin{enumerate}[1. ]
+\item I explored several different features like meta-data, topic distributions,
+and word features.
+
+\item I introduced how to do use different classifiers like Naive Bayes,
+Decision Trees, SVM, and Neural Networks for predicting the publication
+conference.
+
+\item I presented empirical evluation with real-life data. I also analyzed the
+results with cross validation and parameter tuning.
+\end{enumerate}
+
+The paper is organized as follows. In section 1.1, I would introduce the related
+work. In section 2, I explored several different features. In section 3, I
+introduced how to employ several different classifiers for the prediction goal.
+In section 4, I presented the experiments and analyzed the results. In the
+last section, I would conclude my work and discuss about future work.
+
+
+\subsection{Related Work}
+% previous modeling conference framework, A-C-T topic model
+Tang proposed a variant of LDA on modeling publication conference,
+academic researchers, and publications simultaneously called ACT Model
+\cite{tang2008arnetminer}. This work could build conferences over hidden topics
+distributions, and similar to author-topic models \cite{rosen2004author}.
+Besides, there some previous work of topic modeling on integrating meta-data to
+improve training performances \cite{mimno2012topic} \cite{petterson2010word}.
+All these works are variants of LDA, and could be used to help model conference
+and encode meta-data as features. However, they could not be directly used for
+supervision tasks.
+
+% neural networks, word2vec word features
+Neural Networks are quite popular in recent days. Though not able to be well
+interpreted, Neural Networks could always achieve better performances than other
+classifiers. While most remarkable applications of Neural Networks are in
+computer vision filed, there are still influential works used for text mining
+\cite{bengio2003neural} \cite{hochreiter1997long}. Word features are useful for
+modeling text, and deep learning offers another representative way of encoding
+word features \cite{mikolov2013distributed}.
+
+% other classifiers
+Besides neural networks, there are some other important and useful classifiers
+\cite{wu2008top} . Naive Bayes is a probabilistic generative model with assumption
+that features are conditionally independent based on labels,  often used in text
+classification. Decision Trees and SVM are well-performed classifiers, and
+always used as baseline methods in classification tasks.
+
+
+

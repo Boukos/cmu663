@@ -1,0 +1,73 @@
+\begin{thebibliography}{10}
+
+\bibitem{bengio2003neural}
+Yoshua Bengio, R{\'e}jean Ducharme, Pascal Vincent, and Christian Janvin.
+\newblock A neural probabilistic language model.
+\newblock {\em The Journal of Machine Learning Research}, 3:1137--1155, 2003.
+
+\bibitem{blei2003latent}
+David~M Blei, Andrew~Y Ng, and Michael~I Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em the Journal of machine Learning research}, 3:993–1022, 2003.
+
+\bibitem{griffiths2004finding}
+Thomas~L Griffiths and Mark Steyvers.
+\newblock Finding scientific topics.
+\newblock {\em Proceedings of the National Academy of Sciences}, 101(suppl
+  1):5228--5235, 2004.
+
+\bibitem{hochreiter1997long}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{metsis2006spam}
+Vangelis Metsis, Ion Androutsopoulos, and Georgios Paliouras.
+\newblock Spam filtering with naive bayes-which naive bayes?
+\newblock In {\em CEAS}, pages 27--28, 2006.
+
+\bibitem{mikolov2013distributed}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeff Dean.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3111--3119, 2013.
+
+\bibitem{mimno2012topic}
+David Mimno and Andrew McCallum.
+\newblock Topic models conditioned on arbitrary features with
+  dirichlet-multinomial regression.
+\newblock {\em arXiv preprint arXiv:1206.3278}, 2012.
+
+\bibitem{petterson2010word}
+James Petterson, Wray Buntine, Shravan~M Narayanamurthy, Tib{\'e}rio~S Caetano,
+  and Alex~J Smola.
+\newblock Word features for latent dirichlet allocation.
+\newblock In {\em Advances in Neural Information Processing Systems}, page
+  1921–1929, 2010.
+
+\bibitem{rosen2004author}
+Michal Rosen-Zvi, Thomas Griffiths, Mark Steyvers, and Padhraic Smyth.
+\newblock The author-topic model for authors and documents.
+\newblock In {\em Proceedings of the 20th conference on Uncertainty in
+  artificial intelligence}, page 487–494. AUAI Press, 2004.
+
+\bibitem{scholkopf2002learning}
+Bernhard Sch{\"o}lkopf and Alexander~J Smola.
+\newblock {\em Learning with kernels: Support vector machines, regularization,
+  optimization, and beyond}.
+\newblock MIT press, 2002.
+
+\bibitem{tang2008arnetminer}
+Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li~Zhang, and Zhong Su.
+\newblock Arnetminer: extraction and mining of academic social networks.
+\newblock In {\em Proceedings of the 14th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 990--998. ACM, 2008.
+
+\bibitem{wu2008top}
+Xindong Wu, Vipin Kumar, J~Ross Quinlan, Joydeep Ghosh, Qiang Yang, Hiroshi
+  Motoda, Geoffrey~J McLachlan, Angus Ng, Bing Liu, S~Yu Philip, et~al.
+\newblock Top 10 algorithms in data mining.
+\newblock {\em Knowledge and Information Systems}, 14(1):1--37, 2008.
+
+\end{thebibliography}

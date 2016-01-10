@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Related Work}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Feature Engineering}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Meta-data}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Topic Distributions}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.1}{LDA}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Neural Networks Upstream Conditioning LDA}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Word Features}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Classification Methods}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Scalable Smoothed Naive Bayes}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Decision Trees}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{SVM}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Neural Networks}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Dataset}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Extracted Features}{section.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Topic Distributions}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Deep Learning Word Features}{subsection.4.2}% 18
+\BOOKMARK [2][-]{subsection.4.3}{Classification Performances}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.4}{Parameter Tuning for Optimization}{section.4}% 20
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Work}{}% 21
